@@ -2,13 +2,13 @@
 Links to helpful JavaScript and TypeScript resources for writing codemods.
 
 ## CodeMod Tools & CodeMods
- * [JsCodeShift](https://github.com/facebook/jscodeshift) - original code shift library from Facebook
-   * [JsCodeMod](https://github.com/cpojer/js-codemod) - some JSCodeShift transformations
- * [Codemod-JS](https://github.com/codemod-js/codemod)
-   * Resurgar https://github.com/resugar/resugar
- * Putout https://github.com/coderaiser/putout
- * Lebab https://lebab.unibtc.me/ https://github.com/uniibu/lebab-ce
- * P42 Playground
+ * [JsCodeShift](https://github.com/facebook/jscodeshift) - Original JavaScript codemod library from Facebook
+   * [JsCodeMod](https://github.com/cpojer/js-codemod) - Codemods for JsCodeShift
+ * [Codemod-JS](https://github.com/codemod-js/codemod) - Run codemods using Babel plugins
+   * [Resurgar](https://github.com/resugar/resugar) - Codemods for Codemod-JS
+ * [Putout](https://github.com/coderaiser/putout) - Codemod runner with many codemod plugins
+ * [Lebab](https://lebab.unibtc.me/) ([https://github.com/uniibu/lebab-ce](Github)) - Another codemod runner
+ * P42 Playground - Online tool to try out code transformations
    * [ES6 Default Parameters](https://p42.ai/playground/es6_default_parameters.html)
 
 ## Foundational Libraries
