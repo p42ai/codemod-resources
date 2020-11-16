@@ -2,9 +2,9 @@
 Links to helpful JavaScript and TypeScript resources for writing codemods.
 
 ## CodeMod Tools & CodeMods
- * JsCodeShift https://github.com/facebook/jscodeshift
-   * JsCodeMod https://github.com/cpojer/js-codemod
- * Codemod-JS https://github.com/codemod-js/codemod
+ * [JsCodeShift](https://github.com/facebook/jscodeshift) - original code shift library from Facebook
+   * [JsCodeMod](https://github.com/cpojer/js-codemod) - some JSCodeShift transformations
+ * [Codemod-JS](https://github.com/codemod-js/codemod)
    * Resurgar https://github.com/resugar/resugar
  * Putout https://github.com/coderaiser/putout
  * Lebab https://lebab.unibtc.me/ https://github.com/uniibu/lebab-ce
@@ -13,7 +13,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
 
 ## Foundational Libraries
  * [Babel](https://babeljs.io/) ([Github](https://github.com/babel)) - JavaScript parser and transformation framework
- * [Recast](https://github.com/benjamn/recast) - Formatting-preserving JavaScript printer
+ * [Recast](https://github.com/benjamn/recast) - Formatting-preserving JavaScript printer for ASTs
 
 ## JavaScript / TypeScript development
  * [AST Explorer](https://astexplorer.net/) - Online tool for exploring and transforming ASTs (abstract syntax trees)
