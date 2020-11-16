@@ -18,6 +18,3 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
 ## JavaScript / TypeScript development
  * JavaScript Operator Lookup: https://joshwcomeau.com/operator-lookup
  * AST Explorer: https://astexplorer.net/
-
-## P42 Resources
- * P42 https://p42.ai
