@@ -16,5 +16,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
 
 ## CodeMod Tools & CodeMods
  * JsCodeShift https://github.com/facebook/jscodeshift
+ * JsCodeMod https://github.com/cpojer/js-codemod
  * Resurgar https://github.com/resugar/resugar
  * Lebab https://lebab.unibtc.me/ https://github.com/uniibu/lebab-ce
+ * Putout https://github.com/coderaiser/putout
