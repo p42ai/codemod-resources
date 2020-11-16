@@ -13,7 +13,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
 
 ## Foundational Libraries
  * [Babel](https://babeljs.io/ https://github.com/babel)
- * Recast https://github.com/benjamn/recast
+ * [Recast](https://github.com/benjamn/recast)
 
 ## JavaScript / TypeScript development
  * [AST Explorer](https://astexplorer.net/)
