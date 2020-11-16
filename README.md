@@ -12,9 +12,9 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
    * ES6 Default Parameters: https://p42.ai/playground/es6_default_parameters.html  
 
 ## Foundational Libraries
- * [Babel](https://babeljs.io/) [Github](https://github.com/babel)
- * [Recast](https://github.com/benjamn/recast)
+ * [Babel](https://babeljs.io/) ([Github](https://github.com/babel)) - JavaScript parser and transformation framework
+ * [Recast](https://github.com/benjamn/recast) - Formatting-preserving JavaScript printer
 
 ## JavaScript / TypeScript development
- * [AST Explorer](https://astexplorer.net/)
+ * [AST Explorer](https://astexplorer.net/) - Online tool for exploring and transforming ASTs (abstract syntax trees)
  * [JavaScript Operator Lookup](https://joshwcomeau.com/operator-lookup)
