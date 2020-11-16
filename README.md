@@ -1,5 +1,5 @@
-# P42 Library
-Links to helpful JavaScript and TypeScript resources.
+# P42 Codemod Library
+Links to helpful JavaScript and TypeScript resources for writing codemods.
 
 ## JavaScript / TypeScript development
  * JavaScript Operator Lookup: https://joshwcomeau.com/operator-lookup
