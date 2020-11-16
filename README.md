@@ -1,7 +1,7 @@
-# JavaScript CodeMod development resources
+# JavaScript codemod development resources
 Links to helpful JavaScript and TypeScript resources for writing codemods.
 
-## CodeMod Tools & CodeMods
+## Codemod tools & codemods
  * [JsCodeShift](https://github.com/facebook/jscodeshift) - Original JavaScript codemod library from Facebook
    * [JsCodeMod](https://github.com/cpojer/js-codemod) - Codemods for JsCodeShift
  * [Codemod-JS](https://github.com/codemod-js/codemod) - Run codemods using Babel plugins
@@ -11,7 +11,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
  * P42 Playground - Online tool to try out code transformations
    * [ES6 Default Parameters](https://p42.ai/playground/es6_default_parameters.html)
 
-## Foundational Libraries
+## Foundational libraries
  * [Babel](https://babeljs.io/) ([Github](https://github.com/babel)) - JavaScript parser and transformation framework
  * [Recast](https://github.com/benjamn/recast) - Formatting-preserving JavaScript printer for ASTs
 
