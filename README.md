@@ -8,7 +8,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
    * [Resurgar](https://github.com/resugar/resugar) - Codemods for Codemod-JS
  * [Putout](https://github.com/coderaiser/putout) - Codemod runner with many codemod plugins
  * [Lebab](https://lebab.unibtc.me/) ([https://github.com/uniibu/lebab-ce](Github)) - Another codemod runner
- * P42 Playground - Online tool to try out code transformations
+ * [P42 Playground](https://p42.ai/playground/es6_spread_syntax.html) - Online tool to try out code transformations
    * [ES6 Default Parameters](https://p42.ai/playground/es6_default_parameters.html)
    * [ES6 Spread Syntax](https://p42.ai/playground/es6_spread_syntax.html)
 
