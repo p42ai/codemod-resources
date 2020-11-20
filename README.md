@@ -9,8 +9,9 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
  * [Putout](https://github.com/coderaiser/putout) - Codemod runner with many codemod plugins
  * [Lebab](https://lebab.unibtc.me/) ([https://github.com/uniibu/lebab-ce](Github)) - Another codemod runner
  * [P42 Playground](https://p42.ai/playground/) - Online tool to try out code transformations
-   * [ES6 Default Parameters](https://p42.ai/playground/es6_default_parameters)
-   * [ES6 Spread Syntax](https://p42.ai/playground/es6_spread_syntax)
+   * [Default Parameters](https://p42.ai/playground/es6_default_parameters)
+   * [Spread Syntax](https://p42.ai/playground/es6_spread_syntax)
+   * [Template Literals](https://p42.ai/playground/es6_template_literals)
 
 ## Foundational libraries
  * [Babel](https://babeljs.io/) ([Github](https://github.com/babel)) - JavaScript parser and transformation framework
