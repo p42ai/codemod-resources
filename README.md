@@ -22,3 +22,6 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
  * [AST Explorer](https://astexplorer.net/) - Online tool for exploring and transforming ASTs (abstract syntax trees)
  * [JavaScript Operator Lookup](https://joshwcomeau.com/operator-lookup)
  * [Regex 101](https://regex101.com/) - Regular expression testing and development tool
+ * ECMAScript compatibility
+   * https://kangax.github.io/compat-table/es6/
+   * https://caniuse.com/
