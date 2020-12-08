@@ -13,6 +13,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
    * [Spread Syntax](https://p42.ai/playground/es6_spread_syntax)
    * [Template Literals](https://p42.ai/playground/es6_template_literals)
    * [Use Block Scope Variables (let/const)](https://p42.ai/playground/es6_block_scoped_variables)
+   * [Split Multi-Variable Declarations](https://p42.ai/playground/unchain_variable_declarations)
 
 ## Foundational libraries
  * [Babel](https://babeljs.io/) ([Github](https://github.com/babel)) - JavaScript parser and transformation framework
