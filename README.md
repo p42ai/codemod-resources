@@ -30,3 +30,4 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
    * https://kangax.github.io/compat-table/es6/
    * https://caniuse.com/
  * [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
+ * [JavaScript Type Coercion Table](https://getify.github.io/coercions-grid/)
