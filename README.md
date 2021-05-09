@@ -29,3 +29,4 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
  * ECMAScript compatibility
    * https://kangax.github.io/compat-table/es6/
    * https://caniuse.com/
+ * [JavaScript Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
