@@ -20,6 +20,7 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
 ## Foundational libraries
  * [Babel](https://babeljs.io/) ([Github](https://github.com/babel)) - JavaScript parser and transformation framework
    * [Babel UI](https://babeljs.io/repl#) Repl
+   * [Babel Transform List with ES versions](https://babeljs.io/docs/en/plugins-list)
  * [Recast](https://github.com/benjamn/recast) - Formatting-preserving JavaScript printer for ASTs
 
 ## JavaScript / TypeScript development
