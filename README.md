@@ -23,8 +23,11 @@ Links to helpful JavaScript and TypeScript resources for writing codemods.
    * [Babel Transform List with ES versions](https://babeljs.io/docs/en/plugins-list)
  * [Recast](https://github.com/benjamn/recast) - Formatting-preserving JavaScript printer for ASTs
 
-## JavaScript / TypeScript development
+## AST Viewers
  * [AST Explorer](https://astexplorer.net/) - Online tool for exploring and transforming ASTs (abstract syntax trees)
+ * [AST Viewer for TypeScript](https://ts-ast-viewer.com/#)
+
+## JavaScript / TypeScript development
  * [JavaScript Operator Lookup](https://joshwcomeau.com/operator-lookup)
  * [Regex 101](https://regex101.com/) - Regular expression testing and development tool
  * ECMAScript compatibility
